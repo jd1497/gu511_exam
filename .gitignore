@@ -1,1 +1,4 @@
 *.answers.ipynb
+.ipynb_checkpoints
+*.csv
+*.pkl
